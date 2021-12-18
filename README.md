@@ -95,7 +95,7 @@ https://logging.apache.org/log4j/2.x/download.html
 
 ![image](https://user-images.githubusercontent.com/24291535/146075945-037eb767-afd8-4612-8284-49f16b80b8b5.png)
 
-3. Run a scan to check for expoit attempts using https://github.com/Neo23x0/log4shell-detector `python3 log4shell-detector.py -p c:\` and wath for exploitation attempts.
+3. Run a scan to check for exploit attempts using https://github.com/Neo23x0/log4shell-detector `python3 log4shell-detector.py -p c:\` and wath for exploitation attempts.
 
 ![image](https://user-images.githubusercontent.com/24291535/146076166-4276bcf6-7366-40a9-bf15-f9ace0d35c2e.png)
 
